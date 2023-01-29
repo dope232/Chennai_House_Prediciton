@@ -1,2 +1,4 @@
 # Chennai_House_Prediciton
-Begginer Project, Chennai House Prediction 
+Beginner Project, Chennai House Prediction 
+Made during first sem of college, using streamlit and sklearn 
+
